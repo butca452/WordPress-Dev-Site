@@ -1,0 +1,23 @@
+ /*
+ Theme Name:   Child Theme
+ Theme URI:    
+ Description:  HTML5-Reset Child Theme
+ Author:       Aaron Butchino
+ Author URI:   http://butca452.chsweb.org
+ Template:     HTML5-Reset
+ Version:      0.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, multiple-columns, right-sidebar, responsive-layout, bootstrap 
+ Text Domain:  twentfifteen-child-theme
+*/
+body {
+    font-family: 'PT Sans' , sans-serif;
+}
+
+nav{
+     border:  1px solid;   
+ }
+header{
+     border:  1px solid blue;  
+ }
